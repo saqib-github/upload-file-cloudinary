@@ -1,0 +1,24 @@
+{
+  "name": "upload-file-cloudinary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqib-github/upload-file-cloudinary.git"
+  },
+  "author": "Saqib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqib-github/upload-file-cloudinary/issues"
+  },
+  "homepage": "https://github.com/saqib-github/upload-file-cloudinary#readme",
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
